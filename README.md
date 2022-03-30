@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jana717
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning python
